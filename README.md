@@ -1,4 +1,4 @@
-# Basic spreasheet tool for creating DuckyPad profiles
+# Basic spreadsheet tool for creating DuckyPad profiles
 ([DuckyPad](https://github.com/dekuNukem/duckyPad) 
 is a sweet macro-pad )
 
